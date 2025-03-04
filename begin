@@ -1,2 +1,3 @@
+try {
 String password = props.getProperty("db.password");
 hello world
