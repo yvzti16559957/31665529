@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 try {
 String password = props.getProperty("db.password");
 hello world
