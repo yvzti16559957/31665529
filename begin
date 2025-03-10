@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 // error processing code
 public class OracleJdbcTest
 public static void main(String[] args)
