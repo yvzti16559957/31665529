@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 String password = props.getProperty("db.password");
 BufferedWriter out = null;
 // error processing code
