@@ -1,3 +1,4 @@
+// error processing code
 Connection con;
 // do the thing you do
 BufferedWriter out = null;
