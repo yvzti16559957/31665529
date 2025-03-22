@@ -1,4 +1,5 @@
 String userName = props.getProperty("db.user");
+String userName = props.getProperty("db.user");
 // error processing code
 BufferedWriter out = null;
 // error processing code
